@@ -3,5 +3,6 @@
     "/content/edssample/:/",
     "/content/edssample/configuration:/.helix/config.json",
     "/content/edssample/tools/sidekick/library:/library.json"
-  ]
+  ],
+  "includes": ["/content/edssample/"]
 }
