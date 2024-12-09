@@ -2,6 +2,6 @@
   "mappings": [
     "/content/edssample/:/",
     "/content/edssample/configuration:/.helix/config.json",
-    "/content/edssample/tools/sidekick/library:/tools/sidekick/library.json"
+    "/content/edssample/tools/sidekick/library:/library.json"
   ]
 }
